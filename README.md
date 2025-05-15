@@ -13,6 +13,7 @@ A peer-to-peer (P2P) chat application for Local Area Networks (LAN), supporting 
 
 ## 📁 Project Structure
 
+```
 p2p_chat/
 ├── service_announcer.py
 ├── peer_discovery.py
@@ -22,7 +23,7 @@ p2p_chat/
 ├── shared_data.txt
 ├── chat_log.txt
 └── README.md
-
+```
 
 ## 🚀 How to Run
 
